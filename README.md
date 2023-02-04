@@ -1,2 +1,4 @@
 # alarm-clock
-i created a alaram clock using html css
+ I CreateD an alarm clock by using ONLY vanilla javascript,and used  css framework like Bootstrap.
+
+
